@@ -223,3 +223,4 @@ int safe_recv(int fd, char *buffer, struct sockaddr_in *client, int seq_number)
 
   return msglen;
 }
+
